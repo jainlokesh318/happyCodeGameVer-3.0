@@ -1,8 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const upBtn = document.querySelector('#up');
-    const leftBtn = document.querySelector('#left');
-    const downBtn = document.querySelector('#down');
-    const rightBtn = document.querySelector('#right');
     const moveBtn = document.querySelector('#move');
 
 
